@@ -12,6 +12,7 @@
 		0595E70820E808D6003F11D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0595E70620E808D6003F11D9 /* Main.storyboard */; };
 		0595E70A20E808D9003F11D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0595E70920E808D9003F11D9 /* Assets.xcassets */; };
 		0595E70D20E808D9003F11D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0595E70B20E808D9003F11D9 /* LaunchScreen.storyboard */; };
+		0595E72720E80EB3003F11D9 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0595E72620E80EB3003F11D9 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0595E70920E808D9003F11D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0595E70C20E808D9003F11D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0595E70E20E808D9003F11D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0595E72620E80EB3003F11D9 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0595E70920E808D9003F11D9 /* Assets.xcassets */,
 				0595E70B20E808D9003F11D9 /* LaunchScreen.storyboard */,
 				0595E70E20E808D9003F11D9 /* Info.plist */,
+				0595E72620E80EB3003F11D9 /* hustle-on.wav */,
 			);
 			path = "hustle-mode";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0595E72720E80EB3003F11D9 /* hustle-on.wav in Resources */,
 				0595E70D20E808D9003F11D9 /* LaunchScreen.storyboard in Resources */,
 				0595E70A20E808D9003F11D9 /* Assets.xcassets in Resources */,
 				0595E70820E808D6003F11D9 /* Main.storyboard in Resources */,
